@@ -1,0 +1,25 @@
+{
+  "complaints": [
+    {
+      "id": 1,
+      "description": "Rossz termék",
+      "complainant": "Kiss Elemér",
+      "products": "Telefon",
+      "type": "Vizsgálat alatt"
+    },
+    {
+      "id": 2,
+      "description": "Hibás termék",
+      "complainant": "Nagy Elemér",
+      "products": "Tablet",
+      "type": "Vizsgálat alatt"
+    },
+    {
+      "id": 3,
+      "description": "Hiányzó termék",
+      "complainant": "Kis Cecília",
+      "products": "Notebook",
+      "type": "Megoldva"
+    }
+  ]
+}
